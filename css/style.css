@@ -1,0 +1,13 @@
+.jumbotron p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.jumbotron {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
