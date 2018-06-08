@@ -14,3 +14,7 @@ p {
 }
 
 /* PLACE YOUR CUSTOM CODE HERE */
+.navbar-brand {
+  color: pink;
+  font-family: 'Yesteryear', cursive;
+}
