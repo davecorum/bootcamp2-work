@@ -14,7 +14,60 @@ p {
 }
 
 /* PLACE YOUR CUSTOM CODE HERE */
+.navbar {
+  margin-bottom: 0px;
+}
+
+.navbar-default {
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.navbar-default .navbar-brand {
+  color: deeppink;
+}
 .navbar-brand {
-  color: pink;
-  font-family: 'Yesteryear', cursive;
+  font-family: 'Satisfy', cursive;
+}
+
+.jumbotron {
+  background-image: url(../img/hero.jpg);
+  background-position: center;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.jumbotron h2 {
+  color: white;
+  font-weight: 700;
+}
+
+.row {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.col-md-6 h2 {
+  font-weight: 700;
+}
+
+.col-md-4 h2 {
+  font-weight: 600;
+}
+
+.adopt {
+  background-color: #ddd;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.footer h4 {
+  font-weight: 600;
 }
